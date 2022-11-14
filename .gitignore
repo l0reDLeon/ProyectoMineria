@@ -1,0 +1,9 @@
+
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora los datasets que no son necesarios
+*.zip
+dataset.json
+.ipynb_checkpoints
+
