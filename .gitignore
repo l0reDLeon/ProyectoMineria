@@ -5,5 +5,6 @@
 # Ignora los datasets que no son necesarios
 *.zip
 dataset.json
+Fire-Incidents.csv
 .ipynb_checkpoints
 
